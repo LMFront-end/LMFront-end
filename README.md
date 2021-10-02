@@ -1,6 +1,7 @@
 ### Hi I'M LINA MARÍA 👋
 
-![undraw_working_remotely_jh40](https://user-images.githubusercontent.com/86454777/135705774-89058362-42c7-4f18-8bec-b9e251077688.png)
+ ![58e8ff94eb97430e819064d2](https://user-images.githubusercontent.com/86454777/135706344-0cde0010-641f-4083-92a1-b3fd795158d9.png)
+
 
 const LinaMaria = {
 
@@ -15,7 +16,7 @@ const LinaMaria = {
   challenge: "I'm doing the #100DaysOfCode challenge focused on javascript, css and html"
 }
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMFront-end&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMFront-end&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
