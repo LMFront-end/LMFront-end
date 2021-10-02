@@ -20,6 +20,7 @@ const LinaMaria = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMFront-end&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+##The only way to do a good job is to love what you do.
 
 
 <!--
