@@ -16,7 +16,6 @@
     }
     
     
-  ![58e8ff94eb97430e819064d2](https://user-images.githubusercontent.com/86454777/135706344-0cde0010-641f-4083-92a1-b3fd795158d9.png)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMFront-end&show_icons=true&theme=dracula)
