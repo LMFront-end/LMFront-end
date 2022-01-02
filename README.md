@@ -1,4 +1,4 @@
-### Hi I'M LINA MARÍA 👋
+### Hi I'M LINA MARÍA ✌️
 
  
 
@@ -16,6 +16,9 @@
     }
     
     
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMFront-end&show_icons=true&theme=dracula)
