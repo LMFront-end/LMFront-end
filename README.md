@@ -17,12 +17,14 @@
     
     
     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMFront-end&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMFront-end&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
 
 
 ##The only way to do a good job is to love what you do.
