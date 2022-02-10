@@ -5,7 +5,8 @@
     const LinaMaria = {
 
      pronouns: "she" | "her",
-     code: [Javascript, Typescript, HTML, CSS],
+     code: [Javascript, Typescript, HTML, CSS, Java],
+     BD: [MySQL],
      tools: [React,Node,Styled-Components, Angular],
   
     socialMedia: {
