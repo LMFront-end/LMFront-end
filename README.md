@@ -13,8 +13,7 @@
                         Instagram: LinaDev14",
                         linkedInd: Lina Maria Guerrero López",
                       },
-    challenge: "I'm doing the #100DaysOfCode challenge focused on javascript, css and html"
-    }
+    
     
     
     
