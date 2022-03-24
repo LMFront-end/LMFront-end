@@ -7,7 +7,7 @@
      pronouns: "she" | "her",
      code: [Javascript, Typescript, HTML, CSS, Java],
      BD: [MySQL],
-     tools: [React,Node,Styled-Components, Angular],
+     tools: [React,Node,Styled-Components, spring boot]
   
     socialMedia: {
                         Instagram: LinaDev14",
